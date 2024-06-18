@@ -4,4 +4,4 @@ Some repos may be genuine projects. Some may be tutorial tasks and projects. Che
 
 - 🔭 I’m currently working on courses on [boot.dev](https://www.boot.dev/tracks/backend)
 - 🌱 I’m currently learning **Python**
-- ⚡ Fun fact: This is not my first account. I've decided to start over here with a fresh new mindset as I was never serious with any "projects" on my old account.
+- ⚡ Fun fact: Participant of [buildpsace](https://buildspace.so) s5
