@@ -1,6 +1,6 @@
 # Hi there, I'm Betsy Zhang 👋
 
-Welcome to my GitHub profile! Here you can find some of my projects and contributions. 
+Welcome to my GitHub profile! Here you can find some of my projects and coursework. 
 ## About Me
 🏫 I am a community college student studying **Information Technology**, graduating in December 2026.  
 🚀 I am currently expanding my knowledge in tech and brainstorming a concrete personal project.
