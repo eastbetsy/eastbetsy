@@ -1,4 +1,4 @@
-# Hi there, I'm [Betsy Zhang] 👋
+# Hi there, I'm Betsy Zhang 👋
 
 Welcome to my GitHub profile! Here you can find some of my projects and contributions. 
 
