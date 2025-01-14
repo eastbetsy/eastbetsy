@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here you can find some of my projects and coursework. 
 ## About Me
-🏫 I am a community college student studying **Information Technology**, graduating in December 2026.  
+🏫 I am a community college student studying **Information Technology**, graduating in December 2025.  
 🚀 I am currently expanding my knowledge in tech and brainstorming a concrete personal project.
 ## 🛠️ Technologies & Tools:
 - 💻 Programming Languages: Python, JavaScript
