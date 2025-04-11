@@ -9,3 +9,6 @@ Welcome to my GitHub profile! Here you can find some of my projects and coursewo
 - 🔨 Tool Set: VSCode, Github Codespace, WSL Ubuntu, Excel
 ## 🥾 Boot.dev Certifications:
 [Boot.dev Profile](https://www.boot.dev/u/betsyzhang)
+
+## Portfolio (WIP):
+[Portfolio](https://eastbetsy.github.io/portfolio/)
