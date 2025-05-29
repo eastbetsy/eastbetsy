@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here you can find some of my projects and coursewo
 ## About Me
 🏫 I am a community college student studying **Information Technology**, graduating in December 2025.  
 ## 🛠️ Technologies & Tools:
-- 💻 Programming Languages: Python, JavaScript
+- 💻 Programming Languages: JavaScript, Python
 - 🖥️ Web Technologies: HTML, CSS, React
 - 🔨 Tool Set: VSCode, Github Codespace, WSL Ubuntu, Excel
 ## 🥾 Boot.dev Certifications:
