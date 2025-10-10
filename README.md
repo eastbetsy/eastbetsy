@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here you can find some of my projects and coursewo
 ## 🛠️ Technologies & Tools:
 - 💻 Programming Languages: JavaScript, Python
 - 🖥️ Web Technologies: HTML, CSS, React
-- 🔨 Tool Set: VSCode, Github Codespace, WSL Ubuntu, Excel
+- 🔨 Tool Set: VSCode, Github Codespace, WSL Ubuntu, Excel, AWS
 ## 🥾 Boot.dev Certifications:
 [Boot.dev Profile](https://www.boot.dev/u/betsyzhang)
 
