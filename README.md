@@ -1,14 +1,8 @@
 # Hi there, I'm Betsy Zhang 👋
+I recently finished my last class at community college and wanted to begin my journey to becoming a data analyst!  
 
-Welcome to my GitHub profile! Here you can find some of my projects and coursework. 
-## About Me
-🏫 I am a community college student studying **Information Technology**, graduating in December 2025.  
-## 🛠️ Technologies & Tools:
-- 💻 Programming Languages: JavaScript, Python
-- 🖥️ Web Technologies: HTML, CSS, React
-- 🔨 Tool Set: VSCode, Github Codespace, WSL Ubuntu, Excel, AWS
-## 🥾 Boot.dev Certifications:
-[Boot.dev Profile](https://www.boot.dev/u/betsyzhang)
+I am now going to transition this GitHub account to build small relevant projects and remove all my previous ones, which have either been irrelevant/messy/unfinished.  
 
-## Portfolio (WIP):
-[Portfolio](https://eastbetsy.github.io/portfolio/)
+Feel free to follow me on my DataQuest journey!  
+
+I will also be using GitHub now to build a learning system for myself, now that I am out of school and do not have the structured learning.  I have been pretty ambitious, which backfired and made me burn out, so I am taking a step back and re-evaluating my priorities.  
